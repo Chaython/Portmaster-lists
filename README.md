@@ -1,8 +1,10 @@
 # Portmaster-lists
 
-![image](https://github.com/Chaython/Portmaster-lists/assets/6486343/4ab29a16-3837-4c5b-8336-a7e5731112a2)
+![image](https://github.com/Chaython/Portmaster-lists/assets/6486343/e6aa0081-a805-4aa3-95bd-0f3f5329525a)
 
-This list currently inolves [StevenBlacks combined list] (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts), reformatted to match Portmaster list requirements, adding this list uses 40mb extra ram. But currently blocks 200,643 domains.
+
+This list currently inolves [StevenBlacks combined list] (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) and [Windows Spy Blocker Extra list] (https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/simplewall/extra/blocklist.xml). reformatted to match Portmaster list requirements, adding this list uses an additional 41mb ram. Currently blocks 200,643 domains & 958 IP adresses. 
+
 
 <h1>Installation instructions:</h1>
 
