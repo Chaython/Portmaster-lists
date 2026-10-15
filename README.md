@@ -16,3 +16,18 @@ To use this in portmaster you need to download it and link the directory inside 
 To be able to set custom filter list you must have UI Mode set to Advanced interface.
 
 ![image](https://github.com/Chaython/Portmaster-lists/assets/6486343/c874915f-8176-4842-8fa9-16bed2a2604c)
+
+<!-- chaython-funding:start -->
+## Support development
+
+[GitHub Sponsors](https://github.com/sponsors/Chaython) · [Patreon](https://patreon.com/Chaython) · [Buy Me a Coffee](https://buymeacoffee.com/chaython) · [PayPal](https://paypal.me/ChaythonM)
+
+Crypto donation addresses:
+
+- ETH (Ethereum): `0x201B6E0B0282BBAE1592C24f9CbD39009A70F7d7`
+- BTC (Bitcoin): `32o7JmXgFcs4R1SbcLLVKQCRw9KHkhneJi`
+- SOL (Solana): `BDicyUL9zizDeYBLw8oBwotv6jtHotLLQD7Bcqg2atLk`
+- USDC (network unconfirmed): `0xBeD35dcAd9F1A32459B3C0DF004371EBE939E760`
+
+Confirm the blockchain network before transferring USDC.
+<!-- chaython-funding:end -->
